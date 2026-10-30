@@ -5,7 +5,7 @@
 
 | 실습 | 내용 | 열기 |
 |---|---|---|
-| 0 | 막대 세우기: 사람 vs AI. 직접 조종, 반응 지연, AI의 시행착오 학습 | [![Colab에서 열기](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konamgil/physical-ai-labs/blob/main/lab0_balance.ipynb) |
+| 0 | 막대 세우기: 사람 vs AI. 직접 조종, 반응 지연, AI의 시행착오 학습, 신경망 두뇌 | [![Colab에서 열기](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konamgil/physical-ai-labs/blob/main/lab0_balance.ipynb) |
 | 1 | 2관절 로봇팔: 정기구학 · 역기구학 · PID 제어 | [![Colab에서 열기](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konamgil/physical-ai-labs/blob/main/lab1_robot_arm_basics.ipynb) |
 | 2 | 강화학습(PPO)으로 균형 잡기, 제어 지연과 도메인 랜덤화 | [![Colab에서 열기](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konamgil/physical-ai-labs/blob/main/lab2_reinforcement_learning.ipynb) |
 | 3 | 모방학습(행동 복제 · DAgger)과 미니 VLA | [![Colab에서 열기](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konamgil/physical-ai-labs/blob/main/lab3_imitation_and_vla.ipynb) |
